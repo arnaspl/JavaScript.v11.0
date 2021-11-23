@@ -28,7 +28,7 @@ const user: User = {
     firstName: 'Jonas',
     lastName: 'Jonaitis'
 }
-
+// Interface by default yra objektas
 interface User {
     id: number,
     firstName: string,
